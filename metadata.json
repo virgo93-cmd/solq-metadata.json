@@ -1,0 +1,26 @@
+{
+  "name": "Sol Quick Draw",
+  "symbol": "SOLQ",
+  "description": "Token natif untuk platform SolQuick Draw. Digunakan untuk reward tambahan dan governance.",
+  "image": "https://raw.githubusercontent.com/virgo93-cmd/solq-assets/8cda842086766419b18d4a469243ce380a57e052/solq.png",
+  "decimals": 6,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Rewards"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Governance"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/virgo93-cmd/solq-assets/8cda842086766419b18d4a469243ce380a57e052/solq.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
